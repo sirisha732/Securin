@@ -1,0 +1,32 @@
+Project Title:
+
+Simple Banking Application
+
+Objective:
+
+To simulate basic banking operations such as creating an account, depositing money, withdrawing money, and checking balance using Object-Oriented Programming (OOP) concepts in Java.
+Concepts Used:
+
+Classes & Objects
+
+Encapsulation (data hiding using private fields and public methods)
+
+Constructors
+
+Method Overloading / Usage
+
+Scanner class for input
+
+ Features:
+
+1.Create a new bank account with a unique account number
+2.Deposit money
+3.Withdraw money (with balance check)
+4.Check account balance
+5.Menu-driven console interface
+
+Tools & Libraries:
+
+Language: Java
+
+Library: java.util.Scanner
